@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.c602ffa4.css",
-    "main.js": "/static/js/main.a357d876.js",
+    "main.js": "/static/js/main.b0db27a4.js",
     "static/media/sky.webp": "/static/media/sky.079583f543ed8158a291.webp",
     "static/media/mountains_dark.webp": "/static/media/mountains_dark.f08039df100c9e79d908.webp",
     "static/media/mountains_light.webp": "/static/media/mountains_light.a07afb051125bfbc48bd.webp",
@@ -14,8 +14,6 @@
     "static/media/space-station.webp": "/static/media/space-station.b2bd53c783c9fed63c53.webp",
     "static/media/balloon.webp": "/static/media/balloon.c37c2a590c132da13088.webp",
     "static/media/vader.webp": "/static/media/vader.219f6bba2ed54c410a1f.webp",
-    "static/media/ein-des-ein.min.webp": "/static/media/ein-des-ein.min.af77f25eabd771aedd27.webp",
-    "static/media/ein-des-ein.webp": "/static/media/ein-des-ein.6b2b94d5285926174a13.webp",
     "static/media/space-station.min.webp": "/static/media/space-station.min.080e057e4ee8f22d73e8.webp",
     "static/media/satellite_light.min.webp": "/static/media/satellite_light.min.bbb32c7f8e3e61e33d51.webp",
     "static/media/satellite_dark.min.webp": "/static/media/satellite_dark.min.37fb15ecffc117e4b47e.webp",
@@ -24,8 +22,6 @@
     "static/media/flower.svg": "/static/media/flower.bf3c20c542e3e3b92bc2c7d5793b1bd5.svg",
     "static/media/sparkle-thin.svg": "/static/media/sparkle-thin.838fa6968d6626014f2b6ec2a9ef0adf.svg",
     "static/media/planet_light.min.webp": "/static/media/planet_light.min.35f6a6032d73ec79990b.webp",
-    "static/media/zylo.webp": "/static/media/zylo.2df8116ecee5afdd1167.webp",
-    "static/media/purdue.webp": "/static/media/purdue.2c81408c08c8fffad16e.webp",
     "static/media/mountains_dark.min.webp": "/static/media/mountains_dark.min.0d6e715cb349064373f9.webp",
     "static/media/balloon.min.webp": "/static/media/balloon.min.1cc8725415da4d4b3c4f.webp",
     "static/media/architecture_light.min.webp": "/static/media/architecture_light.min.4da03438c29203ff0ad2.webp",
@@ -36,10 +32,10 @@
     "static/media/architecture_dark.min.webp": "/static/media/architecture_dark.min.41d3d0d35e33903c7dd1.webp",
     "static/media/sky.min.webp": "/static/media/sky.min.b8bebd5775efa107aaf0.webp",
     "main.c602ffa4.css.map": "/static/css/main.c602ffa4.css.map",
-    "main.a357d876.js.map": "/static/js/main.a357d876.js.map"
+    "main.b0db27a4.js.map": "/static/js/main.b0db27a4.js.map"
   },
   "entrypoints": [
     "static/css/main.c602ffa4.css",
-    "static/js/main.a357d876.js"
+    "static/js/main.b0db27a4.js"
   ]
 }
